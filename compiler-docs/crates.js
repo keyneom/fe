@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["fe","fe_abi","fe_analyzer","fe_codegen","fe_common","fe_compiler_test_utils","fe_compiler_tests","fe_compiler_tests_legacy","fe_driver","fe_library","fe_mir","fe_parser","fe_test_files","fe_test_runner","fe_yulc"];

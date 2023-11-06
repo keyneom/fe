@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ProjectMode"],"fn":["get_project_root"],"struct":["BuildFiles","Dependency","ProjectFiles"]};
